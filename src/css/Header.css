@@ -1,0 +1,33 @@
+   .connectButton {
+        border-radius: 16px;
+        cursor: pointer;
+        font-size: 16px;
+        font-weight: 600;
+        letter-spacing: 0.03em;
+        outline: currentcolor none 0px;
+        height: 40px;
+        padding: 0px 16px;
+        background-color:#10AD83;
+        color: white;
+        line-height: 40px;
+        margin: 0px 8px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    
+}
+.bg-set{
+    background-color: #96e6c196;
+}
+
+@media only screen and (max-width:500px) {
+    .connectButton{
+        font-size: 13px;
+        font-weight:400;
+        padding: 0px 8px;
+        letter-spacing: 0px;
+
+
+
+    }
+}

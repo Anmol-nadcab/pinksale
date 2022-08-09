@@ -1,0 +1,44 @@
+.btn-light{
+    background-color: #10ad833d;
+    border-radius: 30px;
+     padding-inline: 20px;
+    padding-block: 8px;
+    color: #10AD83;
+}
+.font256{
+    font-size: 30px;
+}
+.setborder{
+    border-radius: 20px;
+}
+.card-body{
+padding: 0%;
+}
+    .containerr{
+        margin: auto;
+        width: 65%;
+    }
+
+    .card{
+        border: 1px solid rgba(255, 232, 232, 0.13);
+        background-color: #b3e7d6;
+        box-shadow: 1px 1px 10px #0000002d;
+        
+    }
+    .cardSet{
+        height:300px;
+        margin-top: 25px;
+    }
+    h1{
+        font-family: arial;
+        font-weight: 700;
+        margin-top: 50px;
+    }
+    .last-two{
+        width: 500px;
+    }
+    @media screen and (max-width: 500px) {
+        .last-two {
+          width: 250px;
+        }
+      }
